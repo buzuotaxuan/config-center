@@ -1,0 +1,7 @@
+spring: 
+  application:
+    name: microservice-config-center
+server: 
+  port: 8086
+  tomcat:
+    uri-encoding: UTF-8
